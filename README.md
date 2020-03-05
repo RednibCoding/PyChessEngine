@@ -1,5 +1,5 @@
 # PyChessEngine
-ChessEngine is a simple chess engine with an ai included
+ChessEngine is a simple chess engine with included ia via the minimax algorithm with alpha-beta pruning
 
 ChessEngine uses the "python-chess" v0.30.1 library from "Niklas Fiekas"
 (https://github.com/niklasf/python-chess)
